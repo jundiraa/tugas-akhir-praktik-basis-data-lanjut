@@ -1,0 +1,1 @@
+tugas akhir dari mata kuliah praktik basis data lanjutan adalah kita diminta mengolah data dari salah satu dataset dan saya memilih dataset significant earthquakes 1965-2016. dataset itu berisi data tanggal, waktu, dan lokasi dari semua gempa bumi bermagnitudo 5,5 atau lebih dari tahun 1965 hingga tahun 2016.
